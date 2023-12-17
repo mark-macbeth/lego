@@ -1,3 +1,3 @@
 # LEGO
 
-[Space Transporter](renders/01-landing-pad.md)
+[Space Transporter](renders/space-transporter.md)
