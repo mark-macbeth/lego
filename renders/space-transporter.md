@@ -4,11 +4,12 @@
 
 | Specification | Value |
 |---------------|-------|
-| Piece Count | approx. 5200 |
+| Piece Count | approx. 5300 |
 | Length | 108.2 studs |
 | Width | 69 studs |
 | Height | 27.6 studs (landing gear retracted) |
 | Height | 32.6 studs (landing gear extended) |
+| Cargo Volume | 54 deep x 12 wide x 10 high studs |
 
 
 ![](space-transporter-top.png)
