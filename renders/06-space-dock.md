@@ -1,4 +1,3 @@
-
 # Space Transporter
 
 [prev](05-flying.md) [next](07-cargo-xfer.md)
