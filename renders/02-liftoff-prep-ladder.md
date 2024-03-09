@@ -1,4 +1,4 @@
-# Space Transporter
+# Liftoff Preparation: Ladder Retraction
 
 [prev](01-landing-pad.md) [next](02-liftoff-prep-ramp.md)
 

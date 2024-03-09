@@ -1,4 +1,4 @@
-# Space Transporter
+# Extender Opening its Cargo Doors
 
 [prev](08-extender-docking.md) [next](10-extender-loading.md)
 
