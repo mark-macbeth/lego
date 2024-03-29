@@ -1,4 +1,4 @@
-# Space Transporter
+# Space Transporter A
 
 [prev](../README.md)
 
@@ -10,6 +10,7 @@
 | Height | 27.6 studs (landing gear retracted) | 22.1 cm |
 | Height | 45 studs (landing gear extended, engines positioned for VTOL) | 36 cm |
 | Cargo Volume | 54 deep x 12 wide x 10 high studs ||
+| Crew | 2 - 4 ||
 
 \* Metric dimensions based on [Dave's Lego Scale Converter](http://www.suave.net/~dave/cgi/scale.cgi).
 
