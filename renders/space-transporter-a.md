@@ -1,6 +1,6 @@
 # Space Transporter A
 
-[prev](../README.md)
+[home](../README.md)
 
 | Specification | Value | Metric |
 |---------------|-------|--------|
@@ -19,4 +19,4 @@
 
 ![](space-transporter-a-front.png)
 
-[prev](../README.md)
+[home](../README.md)

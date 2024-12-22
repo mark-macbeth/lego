@@ -1,6 +1,6 @@
 # Space Transporter B with Extender
 
-[prev](../README.md)
+[home](../README.md)
 
 | Specification | Value | Metric |
 |---------------|-------|--------|
@@ -16,4 +16,4 @@
 
 ![](space-transporter-b-with-extender-front.png)
 
-[prev](../README.md)
+[home](../README.md)

@@ -1,6 +1,6 @@
 # Dropshop (aka The Boar)
 
-[prev](../README.md)
+[home](../README.md)
 
 | Specification | Value | Metric |
 |---------------|-------|--------|
@@ -21,4 +21,4 @@
 
 ![](dropship-frame.png)
 
-[prev](../README.md)
+[home](../README.md)

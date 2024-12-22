@@ -1,6 +1,6 @@
 # Extender (ER) with Carge Barge
 
-[prev](../README.md)
+[home](../README.md)
 
 | Specification | Value | Metric |
 |---------------|-------|--------|
@@ -19,4 +19,4 @@
 
 ![](extender-er-cargo-barge_3.png)
 
-[prev](../README.md)
+[home](../README.md)

@@ -1,6 +1,6 @@
 # Drone Transporter
 
-[prev](../README.md)
+[home](../README.md)
 
 | Specification | Value | Metric |
 |---------------|-------|--------|
@@ -18,4 +18,4 @@
 
 ![](drone-transporter_3.png)
 
-[prev](../README.md)
+[home](../README.md)
