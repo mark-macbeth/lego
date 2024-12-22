@@ -1,4 +1,4 @@
-# Catch a ride! - Scooter
+# Catch a ride!
 
 [prev](18-when-pigs-fly.md) [next](../README.md)
 
