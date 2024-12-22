@@ -1,12 +1,15 @@
 # LEGO
-Welcome to my LEGO page that showcases all of my MOCs and scenes using them.  My name is Mark, and I'm a connoisseur of digitally-build space station-assembly art (yup, kinda niche; I get it).  If you're a CDBSSAA like me then read on!  Also, be sure to check out [r/DigitalLego](https://www.reddit.com/r/DigitalLego/) and [r/LegoSpace](https://www.reddit.com/r/LegoSpace/) where I tend to post my creations.
+Welcome to my LEGO page that showcases all of my MOCs and scenes using them.  My name is Mark, and I'm a connoisseur of
+digitally-built space station-assembly art (yup, kinda niche; I get that a lot).  If you're a CDBSSAA like me then read
+on!  Also, be sure to check out [r/DigitalLego](https://www.reddit.com/r/DigitalLego/) and
+[r/LegoSpace](https://www.reddit.com/r/LegoSpace/) where I tend to post my creations.
 
 Enjoy, and build on!
 
 ## Creations
-[Space Transporter A](renders/space-transporter-a.md)<br>
+[Space Transporter](renders/space-transporter-a.md)<br>
 [Space Transporter Extender](renders/space-transporter-extender.md)<br>
-[Space Transporter B with Extender](renders/space-transporter-b-with-extender.md)<br>
+[Space Transporter with Extender](renders/space-transporter-b-with-extender.md)<br>
 [Drone Transporter](renders/drone-transporter.md)<br>
 [Extender (ER) with Carge Barge](renders/extender-er-cargo-barge.md)<br>
 [Dropship](renders/dropship.md)<br>
