@@ -2,8 +2,8 @@
 
 [prev](../README.md)
 
-| Specification + | Value | Metric |
-|-------------------|-------|------|
+| Specification | Value | Metric |
+|---------------|-------|--------|
 | Purpose | Medium range autonomous cargo delivery between nearby planets ||
 | Piece Count | approx. 800 ||
 | Length | 41.6 studs | 33.3 cm |

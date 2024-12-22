@@ -2,8 +2,8 @@
 
 [prev](../README.md)
 
-| Specification + | Value | Metric |
-|-------------------|-------|------|
+| Specification | Value | Metric |
+|---------------|-------|--------|
 | Purpose | Very long range cargo delivery within a stellar system ||
 | Piece Count | approx. 11,000 ||
 | Length | 223.6 studs | 178.9 cm |

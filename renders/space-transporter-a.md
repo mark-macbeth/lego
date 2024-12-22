@@ -3,7 +3,7 @@
 [prev](../README.md)
 
 | Specification | Value | Metric |
-|---------------|-------|------|
+|---------------|-------|--------|
 | Purpose | Short range cargo delivery between atmospheric planets and their moons ||
 | Piece Count | approx. 5,300 ||
 | Length | 108.2 studs | 86.5 cm |

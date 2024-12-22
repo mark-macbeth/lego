@@ -2,8 +2,8 @@
 
 [prev](../README.md)
 
-| Specification + | Value | Metric |
-|-------------------|-------|------|
+| Specification | Value | Metric |
+|---------------|-------|--------|
 | Purpose | Medium range cargo delivery within a stellar system, and range extension of atmospheric-capable ships ||
 | Piece Count | approx. 13,300 ||
 | Length | 228.6 studs | 182.9 cm |
