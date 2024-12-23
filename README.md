@@ -1,8 +1,8 @@
 # LEGO
 Welcome to my LEGO page that showcases all of my MOCs and scenes using them.  My name is Mark, and I'm a connoisseur of
 digitally-built space station-assembly art (yup, kinda niche; I get that a lot).  If you're a CDBSSAA like me then read
-on!  Also, be sure to check out [r/DigitalLego](https://www.reddit.com/r/DigitalLego/) and
-[r/LegoSpace](https://www.reddit.com/r/LegoSpace/) where I tend to post my creations.
+on!  Also, be sure to check out Reddit's [r/DigitalLego](https://www.reddit.com/r/DigitalLego/) and
+[r/LegoSpace](https://www.reddit.com/r/LegoSpace/) subs where I tend to post my creations.
 
 Enjoy, and build on!
 
