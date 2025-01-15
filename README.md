@@ -7,14 +7,17 @@ on!  Also, be sure to check out Reddit's [r/DigitalLego](https://www.reddit.com/
 Enjoy, and build on!
 
 ## Creations
-[Space Transporter](renders/space-transporter-a.md)<br>
-[Space Transporter Extender](renders/space-transporter-extender.md)<br>
-[Space Transporter with Extender](renders/space-transporter-b-with-extender.md)<br>
-[Drone Transporter](renders/drone-transporter.md)<br>
-[Extender (ER) with Carge Barge](renders/extender-er-cargo-barge.md)<br>
-[Dropship](renders/dropship.md)<br>
-[Scenes](renders/01-landing-pad.md)
+* [Space Transporter](renders/space-transporter-a.md)<br>
+* [Space Transporter Extender](renders/space-transporter-extender.md)<br>
+* [Space Transporter with Extender](renders/space-transporter-b-with-extender.md)<br>
+* [Drone Transporter](renders/drone-transporter.md)<br>
+* [Extender (ER) with Carge Barge](renders/extender-er-cargo-barge.md)<br>
+* [Dropship](renders/dropship.md)<br>
+* [Scenes](renders/01-landing-pad.md)
+
+## Vignettes
+* [Deep Space Explorer 01 and the Red Planet](vignettes/dse-01-and-the-red-planet/dse-01-and-the-red-planet.md)
 
 ## Other
-[FAQ](faq.md)<br>
-[28192](28192.md)
+* [FAQ](faq.md)<br>
+* [28192](28192.md)
