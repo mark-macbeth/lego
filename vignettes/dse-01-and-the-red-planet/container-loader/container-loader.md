@@ -2,13 +2,13 @@
 
 [back](../dse-01-and-the-red-planet.md)
 
-## Packed from Shipping
+## Packed after Shipping
 ![](./container-loader_1.png)
 
 ## Sides Extended
 ![](./container-loader_2.png)
 
-## Lift Masts Up
+## Lift Masts Raised
 ![](./container-loader_3.png)
 
 ## Fully Assembled
@@ -17,10 +17,10 @@
 ## Hub Module ready for Placement
 ![](./container-loader_5.png)
 
-## Hub Module Lowered into Place
+## Hub Module Lowered onto its Feet
 ![](./container-loader_6.png)
 
-## Placing the Command Module
+## Positioning the Command Module
 ![](./container-loader_7.png)
 
 [back](../dse-01-and-the-red-planet.md)
