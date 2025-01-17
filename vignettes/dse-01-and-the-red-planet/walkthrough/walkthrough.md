@@ -5,7 +5,7 @@
 
 ![](teardown-left-front.png)
 
-## Perspective
+## Panorama
 ![](dse-01_01.png)
 
 ## Sensors Unfurling 
