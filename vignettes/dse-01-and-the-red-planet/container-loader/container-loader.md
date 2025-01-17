@@ -2,29 +2,25 @@
 
 [back](../dse-01-and-the-red-planet.md)
 
-## The Container Loader in Action
-<!--
-1. Packed next to Tractor with 1st module
-2. Sides extended
-3. Masts up
-4. Fully assembled
-5. Connected to first module w/. tractor
-6. Module lowered in place
-7. Installing 2nd module
--->
-
+## Packed from Shipping
 ![](./container-loader_1.png)
 
+## Sides Extended
 ![](./container-loader_2.png)
 
+## Masts Up
 ![](./container-loader_3.png)
 
+## Fully Assembled
 ![](./container-loader_4.png)
 
+## Hub Module ready for Placement
 ![](./container-loader_5.png)
 
+## Hub Module Lowered into Place
 ![](./container-loader_6.png)
 
+## Placing the Command Module
 ![](./container-loader_7.png)
 
 [back](../dse-01-and-the-red-planet.md)
