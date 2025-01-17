@@ -8,7 +8,7 @@
 ## Sides Extended
 ![](./container-loader_2.png)
 
-## Masts Up
+## Lift Masts Up
 ![](./container-loader_3.png)
 
 ## Fully Assembled
