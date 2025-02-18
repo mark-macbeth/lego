@@ -1,6 +1,5 @@
 # Deep Space Explorer 01 Walkthrough
 
-
 [back](../README.md)
 
 ![](teardown-left-front.png)
