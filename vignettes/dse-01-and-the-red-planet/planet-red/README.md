@@ -1,6 +1,6 @@
 # The Red Planet
 
-[back](../dse-01-and-the-red-planet.md)
+[back](../README.md)
 
 ## Panoramas
 ![](planet-red_1.png)
@@ -9,4 +9,4 @@
 
 ![](planet-red_3.png)
 
-[back](../dse-01-and-the-red-planet.md)
+[back](../README.md)

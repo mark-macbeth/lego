@@ -16,7 +16,7 @@ Enjoy, and build on!
 * [Scenes](renders/01-landing-pad.md)
 
 ## Vignettes
-* [Deep Space Explorer 01 and the Red Planet](vignettes/dse-01-and-the-red-planet/dse-01-and-the-red-planet.md)
+* [Deep Space Explorer 01 and the Red Planet](vignettes/dse-01-and-the-red-planet/README.md)
 * [Lagrange Point Refueling Station](vignettes/lagrange-point-refueling-station/README.md)
 
 ## Other

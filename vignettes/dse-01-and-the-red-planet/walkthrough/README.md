@@ -1,7 +1,7 @@
 # Deep Space Explorer 01 Walkthrough
 
 
-[back](../dse-01-and-the-red-planet.md)
+[back](../README.md)
 
 ![](teardown-left-front.png)
 
@@ -87,4 +87,4 @@ Gas Collectors x2:
 
 ![](dse-01_16.png)
 
-[back](../dse-01-and-the-red-planet.md)
+[back](../README.md)

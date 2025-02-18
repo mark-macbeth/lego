@@ -1,6 +1,6 @@
 # Manta Ray
 
-[back](../dse-01-and-the-red-planet.md)
+[back](../README.md)
 
 ## Reassembly
 
@@ -16,4 +16,4 @@
 
 ![](./manta-ray_4.png)
 
-[back](../dse-01-and-the-red-planet.md)
+[back](../README.md)
