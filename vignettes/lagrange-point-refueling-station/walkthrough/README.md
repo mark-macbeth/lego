@@ -2,7 +2,7 @@
 
 [back](../README.md)
 
-## Extender XLR
+## Extender (XLR)
 ![](xlr-final-stickers_1.png)
 
 ![](xlr-final-stickers_2.png)

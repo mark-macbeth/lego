@@ -1,4 +1,4 @@
-# Space Transporter with Extender
+# Space Transporter (B) with Extender
 
 [home](../README.md)
 

@@ -4,7 +4,7 @@
 
 ![](teardown-left-front.png)
 
-## Panorama
+## Extender (LR) with Space Transporter (C+)
 ![](dse-01_01.png)
 
 ## Sensors Unfurling 
