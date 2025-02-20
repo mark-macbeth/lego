@@ -7,9 +7,9 @@ on!  Also, be sure to check out Reddit's [r/DigitalLego](https://www.reddit.com/
 Enjoy, and build on!
 
 ## Creations
-* [Space Transporter](renders/space-transporter-a.md)<br>
+* [Space Transporter (A)](renders/space-transporter-a.md)<br>
 * [Space Transporter Extender](renders/space-transporter-extender.md)<br>
-* [Space Transporter with Extender](renders/space-transporter-b-with-extender.md)<br>
+* [Space Transporter (B) with Extender](renders/space-transporter-b-with-extender.md)<br>
 * [Drone Transporter](renders/drone-transporter.md)<br>
 * [Extender (ER) with Carge Barge](renders/extender-er-cargo-barge.md)<br>
 * [Dropship](renders/dropship.md)<br>
