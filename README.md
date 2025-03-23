@@ -7,7 +7,7 @@ and [r/LegoSpace](https://www.reddit.com/r/LegoSpace/) subs where I tend to post
 Enjoy, and build on!
 
 ## Creations
-* [Models](models/models.md)
+* Models
   * [Space Transporter (A)](models/space-transporter-a.md)<br>
   * [Space Transporter Extender](models/space-transporter-extender.md)<br>
   * [Drone Transporter](models/drone-transporter.md)<br>
