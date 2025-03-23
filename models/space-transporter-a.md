@@ -40,7 +40,8 @@ hull.  The VTOL engines were inspired from modern-day aircraft like the
 * The crew is envisioned to be a pilot / Captain, pilot / First Officer, and one or two cargo handlers.
 * I've continued to use LEGO's `LL` numbering convention.  This ship, #3171 is a reference to 'C' (letter 3), 17, 'A'
 (letter 1) or [C-17A](https://en.wikipedia.org/wiki/Boeing_C-17_Globemaster_III).  Originally I thought about naming
-this ship class the "Starmaster" but settled on a more generic "Space Transporter" instead.
+this ship class the "Starmaster" (a reference to the C-17 Globemaster) but settled on a more generic "Space Transporter"
+instead.
 
 ## Studio Shots
 
