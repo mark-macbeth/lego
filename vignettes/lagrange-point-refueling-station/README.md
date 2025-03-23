@@ -4,7 +4,7 @@
 
 ![](banner.png)
 
-## Scenes
+## Renders
 * [Walkthrough](walkthrough/README.md)
 * [Build Sequence](build/README.md)
 * [Red Planet Station](red-planet/README.md)

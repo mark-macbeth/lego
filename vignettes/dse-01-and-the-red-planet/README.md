@@ -4,7 +4,7 @@
 
 ![](banner.png)
 
-## Scenes
+## Renders
 * [Walkthrough](walkthrough/README.md)
 * [Container Loader](container-loader/README.md)
 * [Manta Ray](manta-ray/README.md)
