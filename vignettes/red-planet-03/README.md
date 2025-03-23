@@ -1,4 +1,4 @@
-# Red Planet Mission 03
+# Red Planet Mission 03 (`RP-03`)
 
 [home](../../README.md)
 

@@ -1,4 +1,4 @@
-# Deep Space Explorer 01 and the Red Planet
+# Deep Space Explorer 01 and the Red Planet (`DSE-01`)
 
 [home](../../README.md)
 
