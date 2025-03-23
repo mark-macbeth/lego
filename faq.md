@@ -4,6 +4,9 @@
 
 Below is some QnA captured from previous Reddit comments, as well as some thoughts around my design philosophy.
 
+**Q:** What software do you build your MoCs with?<br>
+**A:** I use [Bricklink Studio](https://www.bricklink.com/v3/studio/main.page).
+
 **Q:** What are your design influences?<br>
 **A:** Obviously, I'm a huge fan of the classic LEGO space era which I collected between 1979 thru 1990(ish), and none
 of my ships would be possible without the amazing 2022 [Galaxy Explorer](https://www.lego.com/en-us/product/galaxy-explorer-10497).
