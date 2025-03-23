@@ -2,7 +2,7 @@
 
 [home](../README.md)
 
-**Model**: <a href="space-transporter-a.io" download>`space-transporter-a.io`</a> (NOTE: this file may contain 28192 artifacts)
+**Model**: [`space-transporter-a.io`](./space-transporter-a.io) (NOTE: this file may contain 28192 artifacts)
 
 | Specification | Value | Metric |
 |---------------|-------|--------|
