@@ -16,6 +16,7 @@ Enjoy, and build on!
 ## Vignettes
 * [Deep Space Explorer 01 and the Red Planet](vignettes/dse-01-and-the-red-planet/README.md)
 * [Lagrange Point Refueling Station](vignettes/lagrange-point-refueling-station/README.md)
+* [Red Planet Mission 03](vignettes/red-planet-03/README.md)
 
 ## Other
 * [License](license.md)
