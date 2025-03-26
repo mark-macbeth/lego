@@ -2,8 +2,6 @@
 
 [home](../README.md)
 
-[home](../README.md)
-
 **Model**: [`drone-transporter.io`](./drone-transporter.io) (NOTE: this file may contain 28192 artifacts)
 
 | Specification | Value | Metric |
