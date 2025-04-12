@@ -14,9 +14,10 @@ Enjoy, and build on!
 * [Renders](renders/01-landing-pad.md) (old)
 
 ## Vignettes
-* [Deep Space Explorer 01 and the Red Planet](vignettes/dse-01-and-the-red-planet/README.md)
-* [Lagrange Point Refueling Station](vignettes/lagrange-point-refueling-station/README.md)
-* [Red Planet Mission 03](vignettes/red-planet-03/README.md)
+* [Deep Space Explorer 01 and the Red Planet](vignettes/dse-01/README.md)
+* [Lagrange Point Refueling Station](vignettes/lprs/README.md)
+* [Red Planet Mission 03](vignettes/rp-03/README.md)
+* [LSS Argo](vignettes/argo-01/README.md)
 
 ## Other
 * [License](license.md)
