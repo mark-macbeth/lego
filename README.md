@@ -18,6 +18,7 @@ Enjoy, and build on!
 * [Lagrange Point Refueling Station](vignettes/lprs/README.md)
 * [Red Planet Mission 03](vignettes/rp-03/README.md)
 * [LSS Argo](vignettes/argo-01/README.md)
+* [Phoenix Station B](vignettes/ps-b/README.md)
 
 ## Other
 * [License](license.md)
