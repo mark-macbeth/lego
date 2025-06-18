@@ -6,5 +6,6 @@
 
 ## Renders
 * [Walkthrough](walkthrough/README.md)
+* [Passenger Shuttle](shuttle/README.md)
 
 [home](../../README.md)
