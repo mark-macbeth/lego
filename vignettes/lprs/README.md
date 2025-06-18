@@ -1,4 +1,4 @@
-# Lagrange Point Refueling Station (`LPRS`)
+# Lagrange Point Refueling Station (`LPRS` / `RP-02`)
 
 [home](../../README.md)
 

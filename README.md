@@ -19,6 +19,7 @@ Enjoy, and build on!
 * [Red Planet Mission 03](vignettes/rp-03/README.md)
 * [LSS Argo](vignettes/argo-01/README.md)
 * [Phoenix Station B](vignettes/ps-b/README.md)
+* [Red Planet Mission 05](vignettes/rp-05/README.md)
 
 ## Other
 * [License](license.md)
