@@ -9,5 +9,7 @@
 * [Passenger Shuttle](shuttle/README.md)
 * [Surface Surveyor Mission](surface-surveyor/README.md)
 * [Red Planet Station](red-planet/README.md)
+* [Spaceport](spaceport/README.md)
+* [Lagrange Point Refueling Station](lprs/README.md)
 
 [home](../../README.md)
