@@ -1,4 +1,4 @@
-# Dropshop (aka The Boar)
+# Heavy Dropship (aka The Boar)
 
 [prev](15-extender-er-cargo-barge-loading.md) [next](17-pre-flight.md)
 
