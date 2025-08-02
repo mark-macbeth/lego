@@ -6,7 +6,7 @@
 
 ## Renders
 * [Walkthrough](walkthrough/README.md)
-* [Passenger Shuttle](shuttle/README.md)
+* [Falcon Passenger Shuttle](shuttle-pax/README.md)
 * [Surface Surveyor Mission](surface-surveyor/README.md)
 * [Red Planet Station](red-planet/README.md)
 * [Spaceport](spaceport/README.md)
