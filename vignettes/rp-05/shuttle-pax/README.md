@@ -16,7 +16,7 @@
 ## Interior
 ![](shuttle-pax-interior.png)
 
-## Operations
+## Flight Operations
 ![](shuttle-pax-landing.png)
 
 ![](shuttle-pax-landed.png)

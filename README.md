@@ -20,6 +20,7 @@ Enjoy, and build on!
 * [LSS Argo](vignettes/argo-01/README.md)
 * [Phoenix Station B](vignettes/ps-b/README.md)
 * [Red Planet Mission 05](vignettes/rp-05/README.md)
+* [Red Planet Mission 06 Preparation and the Eagle Cargo Shuttle](vignettes/rp-06-pre/README.md)
 
 ## Other
 * [License](license.md)
