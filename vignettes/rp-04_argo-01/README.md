@@ -1,4 +1,4 @@
-# LSS Argo (`Argo-01` / `RP-04`)
+# LSS Argo (`RP-04` / `Argo-01`)
 
 [home](../../README.md)
 

@@ -17,7 +17,7 @@ Enjoy, and build on!
 * [Deep Space Explorer 01 and the Red Planet](vignettes/dse-01/README.md)
 * [Lagrange Point Refueling Station](vignettes/lprs/README.md)
 * [Red Planet Mission 03](vignettes/rp-03/README.md)
-* [LSS Argo](vignettes/argo-01/README.md)
+* [Red Planet Mission 04](vignettes/rp-04_argo-01/README.md)
 * [Phoenix Station B](vignettes/ps-b/README.md)
 * [Red Planet Mission 05](vignettes/rp-05/README.md)
 * [Red Planet Mission 06 Preparation and the Eagle Cargo Shuttle](vignettes/rp-06-pre/README.md)
