@@ -21,6 +21,7 @@ Enjoy, and build on!
 * [Phoenix Station B](vignettes/ps-b/README.md)
 * [Red Planet Mission 05](vignettes/rp-05/README.md)
 * [Red Planet Mission 06 Preparation and the Eagle Cargo Shuttle](vignettes/rp-06-pre/README.md)
+* [Red Planet Mission 06](vignettes/rp-06/README.md)
 
 ## Other
 * [License](license.md)
