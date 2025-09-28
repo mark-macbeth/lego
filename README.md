@@ -22,6 +22,7 @@ Enjoy, and build on!
 * [Red Planet Mission 05](vignettes/rp-05/README.md)
 * [Red Planet Mission 06 Preparation and the Eagle Cargo Shuttle](vignettes/rp-06-pre/README.md)
 * [Red Planet Mission 06](vignettes/rp-06/README.md)
+* [Red Planet Mission 07 Preparation and the LSS Zephyr](vignettes/rp-07-pre/README.md)
 
 ## Other
 * [License](license.md)
