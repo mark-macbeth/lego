@@ -18,12 +18,12 @@
 
 ![](extender-neo-final_4.png)
 
-## Falcon disconnecting from Docking Mandibles
+## Falcon Disconnecting from Docking Mandibles
 ![](extender-neo+falcon-connected.png)
 
 ![](extender-neo+falcon-disconnected.png)
 
-## Falcon docking with LSS Zephyr
+## Falcon Docking with LSS Zephyr
 ![](extender-neo+falcon-docking.png)
 
 ![](extender-neo+falcon-docked.png)
