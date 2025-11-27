@@ -2,7 +2,11 @@
 
 [home](../README.md)
 
-**Model**: [`space-transporter-a.io`](./space-transporter-a.io) (NOTE: this file may contain 28192 artifacts)
+**Models**:
+* [`space-transporter-a.io`](./space-transporter-a.io) (NOTE: this file may contain 28192 artifacts)
+* [`space-transporter-b.io`](./space-transporter-b.io): Enhancements include a body flap for better atmospheric
+performance and mounting points to attach with an Extender for...extended range.
+
 
 | Specification | Value | Metric |
 |---------------|-------|--------|

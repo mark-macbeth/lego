@@ -2,7 +2,10 @@
 
 [home](../README.md)
 
-**Model**: [`space-transporter-extender.io`](./space-transporter-extender.io) (NOTE: this file may contain 28192 artifacts)
+**Models**:
+* [`space-transporter-extender.io`](./space-transporter-extender.io) (NOTE: this file may contain 28192 artifacts)
+* [`extender-er.io`](./extender-er.io):  Enhancements include inverted engines for better cargo management and 33%
+additional range.
 
 | Specification | Value | Metric |
 |---------------|-------|--------|

@@ -1,4 +1,7 @@
 # LEGO
+
+_“Studs showing are just the artist’s brushstrokes.”_ - me
+
 Welcome to my LEGO page that showcases all of my MOCs and scenes using them.  My name is Mark, and I'm a **c**onnoisseur
 of **d**igitally-**b**uilt **s**pace **s**tation-**a**ssembly **a**rt (yup, kinda niche; I get that a lot).  If you're a
 **CDBSSAA** like me then read on!  Also, be sure to check out Reddit's [r/DigitalLego](https://www.reddit.com/r/DigitalLego/)
@@ -8,7 +11,7 @@ Enjoy, and build on!
 
 ## Creations
 * Models
-  * [Space Transporter (A)](models/space-transporter-a.md)<br>
+  * [Space Transporter](models/space-transporter.md)<br>
   * [Space Transporter Extender](models/space-transporter-extender.md)<br>
   * [Drone Transporter](models/drone-transporter.md)<br>
 * [Renders](renders/01-landing-pad.md) (old)
