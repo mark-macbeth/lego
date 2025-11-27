@@ -12,6 +12,9 @@
 
 ![](erimos-spaceport_2.png)
 
+## B.U.G. (Biomorphic Unit, Ground)
+![](bug.png)
+
 ## Sting Ray Upgrade
 ![](sting-ray-sensors+bug_1.png)
 
