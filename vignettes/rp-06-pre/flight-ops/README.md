@@ -22,7 +22,4 @@
 
 ![](preflight-6.png)
 
-## Animations
-![](preflight.m4v)
-
 [back](../README.md)
