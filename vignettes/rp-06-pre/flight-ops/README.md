@@ -2,13 +2,6 @@
 
 [back](../README.md)
 
-## Landing Gear and Boarding Ladder Retraction
-![](flight-1.png)
-
-![](flight-2.png)
-
-![](flight-3.png)
-
 ## Cargo Ramp and Antenna Retraction
 ![](preflight-1.png)
 
@@ -22,7 +15,14 @@
 
 ![](preflight-6.png)
 
-## Animations
-![](preflight.m4v)
+## Landing Gear and Boarding Ladder Retraction
+![](flight-1.png)
+
+![](flight-2.png)
+
+![](flight-3.png)
+
+## Animation
+* [flight-ops.m4v](flight-ops.m4v)
 
 [back](../README.md)
