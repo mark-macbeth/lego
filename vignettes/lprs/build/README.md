@@ -5,7 +5,7 @@
 ## Docking Module Repositioned
 ![](./build_1.png)
 
-## Side 3 (Habitation Modules) Reonnected
+## Side 3 (Habitation Modules) Reconnected
 ![](./build_2.png)
 
 ## Module Frame Installed
