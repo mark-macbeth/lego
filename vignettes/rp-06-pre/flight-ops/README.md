@@ -23,6 +23,7 @@
 ![](flight-3.png)
 
 ## Animation
-* [flight-ops.m4v](flight-ops.m4v)
+* [YouTube](https://youtu.be/pMKtEAv2xkA?si=YnuZnTNfawXBGrpR)
+* [Original](flight-ops.m4v): On the next screen click **View Raw** to download.
 
 [back](../README.md)
