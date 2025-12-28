@@ -23,6 +23,6 @@
 ![](flight-3.png)
 
 ## Animation
-[![Eagle Cargo Shuttle Flight Operations](https://img.youtube.com/vi/YnuZnTNfawXBGrpR/0.jpg)](https://www.youtube.com/watch?v=YnuZnTNfawXBGrpR)
+[![Eagle Cargo Shuttle Flight Operations](https://img.youtube.com/vi/YnuZnTNfawX/0.jpg)](https://www.youtube.com/watch?v=YnuZnTNfawX)
 
 [back](../README.md)
