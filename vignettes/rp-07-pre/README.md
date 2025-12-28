@@ -1,4 +1,4 @@
-# Red Planet Mission 07 Preparation and the LSS Zephyr (`RP-07-pre`)
+# Red Planet Mission 07 Preparation and LSS Zephyr (`RP-07-pre`)
 
 [home](../../README.md)
 
