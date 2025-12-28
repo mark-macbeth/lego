@@ -23,7 +23,6 @@
 ![](flight-3.png)
 
 ## Animation
-* [YouTube](https://youtu.be/pMKtEAv2xkA?si=YnuZnTNfawXBGrpR)
-* [Original](flight-ops.m4v): On the next screen click **View Raw** to download.
+[![Eagle Cargo Shuttle Flight Operations](https://img.youtube.com/vi/YnuZnTNfawXBGrpR/0.jpg)](https://www.youtube.com/watch?v=YnuZnTNfawXBGrpR)
 
 [back](../README.md)
