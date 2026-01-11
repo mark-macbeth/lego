@@ -6,6 +6,11 @@
 * [`space-transporter-a.io`](./space-transporter-a.io) (NOTE: this file may contain 28192 artifacts)
 * [`space-transporter-b.io`](./space-transporter-b.io): Enhancements include a body flap for better atmospheric
 performance and mounting points to attach with an Extender for...extended range.
+* [`space-transporter-c.io`](./space-transporter-c.io): Enhancements include a roll-on / roll-off cargo deck and a
+revised body flap.
+* [`space-transporter-c+-dse.io`](./space-transporter-c+-dse.io): Enhancements include improved sensors, communications,
+and cosmetic changes used on [`RP-01`](../vignettes/rp-01/README.md)
+* [`space-transporter-assets.io`](./space-transporter-b.io): Contains landing gear, and boarding ladder.
 
 
 | Specification | Value | Metric |
