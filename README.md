@@ -18,14 +18,16 @@ Enjoy, and build on!
 * [Renders](renders/01-landing-pad.md) (old)
 
 ## Vignettes
-* [Deep Space Explorer 01 and the Red Planet](vignettes/dse-01/README.md)
-* [Lagrange Point Refueling Station](vignettes/lprs/README.md)
+### Erimos System Phase I
+* [Deep Space Explorer 01 and the Red Planet](vignettes/rp-01/README.md)
+* [Lagrange Point Refueling Station](vignettes/rp-02_lprs/README.md)
 * [Red Planet Mission 03](vignettes/rp-03/README.md)
-* [Red Planet Mission 04](vignettes/rp-04_argo-01/README.md)
+* [Red Planet Mission 04](vignettes/rp-04/README.md)
 * [Phoenix Station B](vignettes/ps-b/README.md)
 * [Red Planet Mission 05](vignettes/rp-05/README.md)
 * [Red Planet Mission 06 Preparation and the Eagle Cargo Shuttle](vignettes/rp-06-pre/README.md)
 * [Red Planet Mission 06](vignettes/rp-06/README.md)
+### Erimos System Phase II
 * [Red Planet Mission 07 Preparation and LSS Zephyr](vignettes/rp-07-pre/README.md)
 * [Erimos IV Mission 07](vignettes/rp-07/README.md)
 * [Erimos IV Mission 08 Preparation with the Roc Heavy Cargo Shuttle and LSS Notus](vignettes/rp-08-pre/README.md)
