@@ -14,7 +14,7 @@ Other influences include present-day space, the Expanse, For all Mankind, and an
 spaceships in a semi-realistic way.
 
 **Q:** Is there a story behind the various MOC scenes?<br>
-**A:** Short answer is "ish".  The slightly longer answer is "not really".  I try to preserve some models from scene to
+**A1:** Short answer is "ish".  The slightly longer answer is "not really".  I try to preserve some models from scene to
 scene to indicate a linear progression in time.  There are occasions where I've felt the jump between scenes is too
 abrupt and will retcon in another scene for better continuity.  For example, several intermediate scenes were added
 between [07](renders/07-cargo-xfer.md) and [08](renders/08-extender-docking.md) to smooth out the changes in the Space
@@ -23,10 +23,14 @@ Station modules, and the cargo arriving before the Extender shows up.
 > TODO: nothing is shared across [13](renders/13-extender-ignition.md) and [14](renders/14-landing-pad-2.md), and this
 would be a nice area of improvement were it not for the [28192](28192.md) rework required.  😭
 
+**A2:** For the newer vignettes there is a story spanning all the missions.  Every mission builds on the previous one
+where humanity has reached out to the stars and begun settling new worlds.  My goal is to make something that looks
+vaguely realistic to anyone with a basic understanding of space travel.
+
 **Q:** Do you re-render old scenes?<br>
 **A:** It's unlikely I'd re-render an old scene because I like to see how I've progressed over time.  Additionally, the
-problems with [28192](28192.md) mean a lot of rework fixing older scenes to clean them up.  I would rather spend my time
-building new things going forward.
+problems with [28192](28192.md) means a lot of rework fixing older scenes to clean them up.  I would rather spend my
+time building new things going forward.
 
 **Q:** Why do you host in GitHub?<br>
 **A:**
