@@ -1,4 +1,4 @@
-# Red Planet Mission 08 (`RP-08`)
+# Erimos IV Mission 08 (`RP-08`)
 
 [home](../../README.md)
 

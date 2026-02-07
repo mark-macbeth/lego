@@ -1,4 +1,4 @@
-# Red Planet Mission 06 Planet-side Renders
+# Erimos IV Mission 08 Planet-side Renders
 
 [back](../README.md)
 
