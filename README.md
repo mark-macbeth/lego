@@ -32,6 +32,7 @@ Enjoy, and build on!
 * [Erimos IV Mission 07 Preparation and LSS Zephyr](vignettes/rp-07-pre/README.md)
 * [Erimos IV Mission 07](vignettes/rp-07/README.md)
 * [Erimos IV Mission 08 Preparation with the Roc Heavy Cargo Shuttle and LSS Notus](vignettes/rp-08-pre/README.md)
+* [Erimos IV Mission 08](vignettes/rp-08/README.md)
 
 ## Other
 * [License](license.md)
