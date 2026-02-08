@@ -2,17 +2,17 @@
 
 [home](../README.md)
 
-**Models**:
-* [`space-transporter-a.io`](./space-transporter-a.io) (NOTE: this file may contain 28192 artifacts)
+## Models
+* [`space-transporter-a.io`](./space-transporter-a.io): NOTE: this file may contain 28192 artifacts.
 * [`space-transporter-b.io`](./space-transporter-b.io): Enhancements include a body flap for better atmospheric
 performance and mounting points to attach with an Extender for...extended range.
 * [`space-transporter-c.io`](./space-transporter-c.io): Enhancements include a roll-on / roll-off cargo deck and a
 revised body flap.
 * [`space-transporter-c+-dse.io`](./space-transporter-c+-dse.io): Enhancements include improved sensors, communications,
-and cosmetic changes used on [`RP-01`](../vignettes/rp-01/README.md)
+and cosmetic changes used on [`RP-01`](../vignettes/rp-01/README.md).
 * [`space-transporter-assets.io`](./space-transporter-b.io): Contains landing gear, and boarding ladder.
 
-
+## Specifications
 | Specification | Value | Metric |
 |---------------|-------|--------|
 | Purpose | Short range cargo delivery between atmospheric planets and their moons ||
@@ -24,6 +24,7 @@ and cosmetic changes used on [`RP-01`](../vignettes/rp-01/README.md)
 | Cargo Volume | 54 deep x 12 wide x 10 high studs or 2x standard containers ||
 | Crew | 2 - 4 ||
 
+## Renders
 ![](space-transporter-a_1.png)
 
 ![](space-transporter-a_2.png)
@@ -53,7 +54,6 @@ this ship class the "Starmaster" (a reference to the C-17 Globemaster) but settl
 instead.
 
 ## Studio Shots
-
 The flight deck of the ship with controls in the rear for cargo management:
 ![](../images/space-transporter-flight-deck.png)
 
