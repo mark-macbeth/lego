@@ -7,6 +7,13 @@
 
 ![](extender-neo_2.png)
 
+## Ship and Container Interiors
+![](./extender-neo-interior_1.png)
+
+![](./extender-neo-interior_2.png)
+
+![](./extender-neo-interior_3.png)
+
 ## Arrival at Erimos IV
 ![](zephyr+notus.png)
 
