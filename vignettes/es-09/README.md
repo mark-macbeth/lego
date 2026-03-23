@@ -4,7 +4,7 @@
 
 ![](banner.png)
 
-## LSS Hermes and LSS Erebus
+## LSS Hermes (Extender Neo) and LSS Erebus (Tender Neo)
 ![](extender-neo-final-stickers_1.png)
 ![](extender-neo-final-stickers_2.png)
 
