@@ -5,31 +5,31 @@
 ![](banner.png)
 
 ## LSS Hermes (Extender Neo) and LSS Erebus (Tender Neo)
-![](extender-neo-final-stickers_1.png)
-![](extender-neo-final-stickers_2.png)
+![](extender-neo-final_1.png)
+![](extender-neo-final_2.png)
 
 ## Erebus Placing Initial Frames
-![](asteroid-base-build-stickers_1.png)
-![](asteroid-base-build-stickers_2.png)
+![](asteroid-base-build_1.png)
+![](asteroid-base-build_2.png)
 
 ## Undocking the Tunnel Boring Machine from the Hermes
-![](extender-neo-tbm-undocking-stickers.png)
+![](extender-neo-tbm-undocking.png)
 
 ## Positioning the Tunnel Boring Machine against Astereus Minor
-![](asteroid-base-tbm-positioning-stickers.png)
+![](asteroid-base-tbm-positioning.png)
 
 ## Phase I of Station Completed with Phase II Boring Commenced
-![](asteroid-base+tbm-stickers_1.png)
-![](asteroid-base+tbm-stickers_2.png)
-![](asteroid-base+tbm-stickers_3.png)
+![](asteroid-base+tbm_1.png)
+![](asteroid-base+tbm_2.png)
+![](asteroid-base+tbm_3.png)
 
 ## Transfer of Command from Zephyr to Hermes over Erimos IV
-![](zephyr+hermes-stickers.png)
+![](zephyr+hermes.png)
 
 ## Tunnel Boring Machine (TBM)
 ![](tunnel-boring-machine.png)
 
-## Centaur Utility Mech
+## Centaur with RCS Unit
 ![](centaur.png)
 
 [home](../../README.md)
