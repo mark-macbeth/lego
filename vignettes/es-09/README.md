@@ -15,7 +15,7 @@
 ## Undocking the Tunnel Boring Machine from the Hermes
 ![](extender-neo-tbm-undocking.png)
 
-## Positioning the Tunnel Boring Machine against Astereus Minor
+## Positioning the Tunnel Boring Machine against Astreus Minor
 ![](asteroid-base-tbm-positioning.png)
 
 ## Phase I of Station Completed with Phase II Boring Commenced
