@@ -29,7 +29,7 @@
 ## Tunnel Boring Machine (TBM)
 ![](tunnel-boring-machine.png)
 
-## Centaur with RCS Unit
+## C.E.N.T.A.U.R. (Crewed Exoatmospheric Navigation, Technical Assembly, Utility Robot) with RCS Unit
 ![](centaur.png)
 
 [home](../../README.md)
