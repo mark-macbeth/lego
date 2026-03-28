@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [[ "$1" == "" || "$2" == "" || "$3" == "" ]] ; then
+  echo "Reduce saturation and add a red border using ImageMagick"
+  echo "usage: magick-desaturate-and-border <input file> <saturation 0-100> <output file>"
+  echo "  saturation: 0 = grayscale, 100 = original colors"
+  exit 1
+fi
+
+exec magick convert "$1" -background black -alpha remove -modulate 100,"$2" -bordercolor red -border 5x5 "$3"

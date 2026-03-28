@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [[ "$1" == "" || "$2" == "" || "$3" == "" ]] ; then
+  echo "Convert a background color to transparent using ImageMagick"
+  echo "usage: magick-convert-to-transparent <input file> <background color> <output file>"
+  exit 1
+fi
+
+exec magick convert "$1" -transparent "$2" "$3"

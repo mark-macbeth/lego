@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [[ "$1" == "" || "$2" == "" || "$3" == ""  ]] ; then
+  echo "Composite two images using ImageMagick"
+  echo "usage: magick-composite <front file> <rear file> <output file>"
+  exit 1
+fi
+
+exec magick composite "$1" "$2" "$3"
