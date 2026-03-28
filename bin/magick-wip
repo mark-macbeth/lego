@@ -1,13 +1,13 @@
 #!/bin/bash
 
 # Configuration
-# 0-100: saturation level (0=grayscale, 100=full color)
+# 0-200: saturation level for modulate (0=grayscale, 100=normal, 200=oversaturated)
 saturation=10
-# 0.5-2: anti-alias blur amount (higher=smoother)
+# filter blur amount for resampling (affects edge smoothness; higher=more blur)
 aa_blur=0.8
-# edge detection radius
+# edge detection radius in pixels
 edge_radius=1
-# number of colors for edge detection
+# color palette size for image quantization (limits colors before edge detection)
 edge_colors=2
 # background color
 background_color='black'
