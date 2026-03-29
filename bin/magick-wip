@@ -12,7 +12,7 @@ edge_colors=2
 # background color
 background_color='black'
 # border color
-border_color="red"
+border_color="gray50"
 # border width
 border_width="2x2"
 
@@ -41,8 +41,13 @@ input_name="${input_base%.*}"  # Remove extension
 input_ext="${input_base##*.}"  # Get extension
 
 # Create temp files
-border_temp=$(mktemp /tmp/magick-wip-border-XXXXXX.${input_ext})
-composite_temp=$(mktemp /tmp/magick-wip-composite-XXXXXX.${input_ext})
+border_temp=$(mktemp /tmp/magick-wip-border-XXXXXX)
+mv "$border_temp" "$border_temp.${input_ext}"
+border_temp="$border_temp.${input_ext}"
+
+composite_temp=$(mktemp /tmp/magick-wip-composite-XXXXXX)
+mv "$composite_temp" "$composite_temp.${input_ext}"
+composite_temp="$composite_temp.${input_ext}"
 
 # Step 1: Create edge-detected border (transparent black background)
 magick "$input" -antialias -define filter:blur="$aa_blur" -colors "$edge_colors" -edge "$edge_radius" -transparent "$background_color" "$border_temp"
