@@ -61,5 +61,3 @@ magick "$composite_temp" -background "$background_color" -alpha remove -modulate
 
 # Clean up temp files
 rm -f "$border_temp" "$composite_temp"
-
-echo "Generated: $output"

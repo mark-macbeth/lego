@@ -1,4 +1,4 @@
-# Astreus Station, Erimos Asteroid Belt (`ES-09`)
+# Astreus Station Phase I, Erimos Asteroid Belt (`ES-09`)
 
 [home](../../README.md)
 
