@@ -11,13 +11,6 @@ for animations from these builds.
 
 Enjoy, and build on!
 
-## Older Creations
-* Models
-  * [Space Transporter](models/space-transporter.md)<br>
-  * [Space Transporter Extender](models/space-transporter-extender.md)<br>
-  * [Drone Transporter](models/drone-transporter.md)<br>
-* [Renders](renders/01-landing-pad.md) (old)
-
 ## Vignettes
 ### Erimos System Phase I
 * [Deep Space Explorer 01 and the Red Planet](vignettes/rp-01/README.md)
@@ -36,8 +29,11 @@ Enjoy, and build on!
 * [Astreus Station Phase I, Erimos Asteroid Belt](vignettes/es-09/README.md)
 * [Astreus Station Phase IIa](vignettes/es-10a/README.md)
 
+## Older Creations
+* [Model `.io` files](models/) (**NOTE**: may contain [28192](28192.md) artifacts)
+* [Renders](renders/01-landing-pad.md)
+
 ## Other
 * [License](license.md)
 * [Attribution](attribution.md)
-* [FAQ](faq.md)<br>
-* [28192](28192.md)
+* [FAQ](faq.md)
