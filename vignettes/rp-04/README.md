@@ -1,4 +1,4 @@
-# LSS Argo (`RP-04`)
+# Red Planet Mission 04 (`RP-04`)
 
 [home](../../README.md)
 
