@@ -30,7 +30,7 @@
 
 ![](extender-neo-x_3.png)
 
-## Tug Neo - Clean
+## Tug Neo
 ![](tug-neo_1.png)
 
 ![](tug-neo_2.png)
