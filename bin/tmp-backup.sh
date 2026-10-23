@@ -4,7 +4,7 @@ set -euo pipefail
 
 usage() {
   cat <<'EOF'
-Usage: tmp-backup.sh --src FOLDER --dst FOLDER [--range DAYS] [--count COUNT]
+Usage: tmp-backup.sh --src FOLDER --dst FOLDER [--range DAYS] [--count COUNT] [--force]
 
 Back up files modified within DAYS (default: 1), keeping at most COUNT
 versions per file (default: 5), storing backups under the destination folder.
@@ -14,6 +14,7 @@ Options:
   -d, --dst FOLDER   Folder in which to store backups (required)
   -r, --range DAYS   Look back this many days
   -c, --count COUNT  Keep this many backups per file
+  -f, --force        Delete excess backups without prompting
   -h, --help         Show this help
 EOF
 }
@@ -36,6 +37,7 @@ expand_home_path() {
 
 range_days=1
 keep_count=5
+force_delete=false
 source_folder=
 destination_folder=
 
@@ -103,6 +105,10 @@ while [[ $# -gt 0 ]]; do
       ;;
     --count=*)
       keep_count=${1#*=}
+      shift
+      ;;
+    -f|--force)
+      force_delete=true
       shift
       ;;
     -h|--help)
@@ -186,7 +192,7 @@ while IFS= read -r -d '' source_file; do
   backup_file="$backup_directory/$backup_timestamp$backup_extension"
 
   if [[ -f $backup_file ]]; then
-    printf 'Already backed up: %s\n' "$source_file"
+    # printf 'Already backed up: %s\n' "$source_file"
     continue
   fi
   if [[ -e $backup_file || -L $backup_file ]]; then
@@ -196,7 +202,7 @@ while IFS= read -r -d '' source_file; do
 
   mkdir -p "$backup_directory"
   cp -p "$source_file" "$backup_file"
-  printf 'Backed up:         %s\n' "$source_file"
+  printf 'Backed up: %s\n' "$source_file"
 
   backups=()
   for candidate in "$backup_directory"/*; do
@@ -215,20 +221,22 @@ while IFS= read -r -d '' source_file; do
         oldest_epoch=$candidate_epoch
       fi
     done
-    if [[ ! -r /dev/tty ]]; then
-      printf 'Error: cannot prompt to delete old backup without a terminal.\n' >&2
-      exit 1
-    fi
-    if ! IFS= read -r -p "Delete old backup '${backups[$oldest_index]}'? [y/N] " response </dev/tty; then
-      printf '\nError: could not read deletion confirmation.\n' >&2
-      exit 1
-    fi
-    if [[ ! $response =~ ^[Yy]([Ee][Ss])?$ ]]; then
-      printf 'Keeping old backup: %s\n' "${backups[$oldest_index]}"
-      break
+    if [[ $force_delete != true ]]; then
+      if [[ ! -r /dev/tty ]]; then
+        printf 'Error: cannot prompt to delete old backup without a terminal.\n' >&2
+        exit 1
+      fi
+      if ! IFS= read -r -p "Delete old backup: '${backups[$oldest_index]}'? [y/N] " response </dev/tty; then
+        printf '\nError: could not read deletion confirmation.\n' >&2
+        exit 1
+      fi
+      if [[ ! $response =~ ^[Yy]([Ee][Ss])?$ ]]; then
+        printf 'Keeping old backup: %s\n' "${backups[$oldest_index]}"
+        break
+      fi
     fi
 
-    printf 'Removing old backup: %s\n' "${backups[$oldest_index]}"
+    printf 'Removing old backup:  %s\n' "${backups[$oldest_index]}"
     rm "${backups[$oldest_index]}"
     unset 'backups[oldest_index]'
     backups=("${backups[@]}")
