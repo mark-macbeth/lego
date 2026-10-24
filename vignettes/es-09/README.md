@@ -6,10 +6,12 @@
 
 ## LSS Hermes (Extender Neo) and LSS Erebus (Tender Neo)
 ![](extender-neo-final_1.png)
+
 ![](extender-neo-final_2.png)
 
 ## Erebus Placing Initial Frames
 ![](asteroid-base-build_1.png)
+
 ![](asteroid-base-build_2.png)
 
 ## Undocking the Tunnel Boring Machine from the Hermes
@@ -20,7 +22,9 @@
 
 ## Phase I of Station Completed with Phase II Boring Commenced
 ![](asteroid-base+tbm_1.png)
+
 ![](asteroid-base+tbm_2.png)
+
 ![](asteroid-base+tbm_3.png)
 
 ## Transfer of Command from Zephyr to Hermes over Erimos IV

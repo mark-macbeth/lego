@@ -28,6 +28,7 @@ Enjoy, and build on!
 * [Erimos IV Mission 08](vignettes/rp-08/README.md)
 * [Astreus Station Phase I, Erimos Asteroid Belt](vignettes/es-09/README.md)
 * [Astreus Station Phase IIa](vignettes/es-10a/README.md)
+* [Astreus Station Phase IIb](vignettes/es-10b/README.md)
 
 ## Older Creations
 * [Model `.io` files](models/) (**NOTE**: may contain [28192](28192.md) artifacts)
