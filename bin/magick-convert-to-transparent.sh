@@ -2,7 +2,7 @@
 
 if [[ "$1" == "" || "$2" == "" ]] ; then
   echo "Convert a background color to transparent using ImageMagick"
-  echo "usage: magick-convert-to-transparent <input file> <background color>"
+  echo "usage: magick-convert-to-transparent.sh <input file> <background color>"
   echo "output: <dir>/<name>-transparent-<color>.<ext>"
   echo "  color format: color name (white, black, red, etc.), hex (#ffffff), or rgb(r,g,b)"
   exit 1

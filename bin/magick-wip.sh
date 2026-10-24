@@ -18,7 +18,7 @@ border_width="2x2"
 
 if [[ "$1" == "" ]] ; then
   echo "Create edge-detected border, composite, and desaturate an image"
-  echo "usage: magick-wip <input file>"
+  echo "usage: magick-wip.sh <input file>"
   echo "output: <dir>/<name>-wip.<ext>"
   echo ""
   echo "Edit the Configuration section at the top of this script to adjust parameters:"

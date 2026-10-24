@@ -2,7 +2,7 @@
 
 if [[ "$1" == "" || "$2" == "" ]] ; then
   echo "Composite two images using ImageMagick"
-  echo "usage: magick-composite <front file> <rear file>"
+  echo "usage: magick-composite.sh <front file> <rear file>"
   echo "output: <front_dir>/<front_name>-composite-<rear_name>.<ext>"
   exit 1
 fi
