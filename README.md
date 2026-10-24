@@ -12,10 +12,11 @@ for animations from these builds.
 Enjoy, and build on!
 
 ## Vignettes
-### Erimos System Phase I
+### Erimos System Phase I: Establishing a Foothold in a new Stellar System
 * [Deep Space Explorer 01 and the Red Planet](vignettes/rp-01/README.md)
 * [Lagrange Point Refueling Station](vignettes/rp-02_lprs/README.md)
 * [Red Planet Mission 03](vignettes/rp-03/README.md)
+### Erimos System Phase II: The Advent of Space Folding
 * [Red Planet Mission 04](vignettes/rp-04/README.md)
 * [Phoenix Station B](vignettes/ps-b/README.md)
 * [Red Planet Mission 05](vignettes/rp-05/README.md)
@@ -25,7 +26,7 @@ Enjoy, and build on!
 * [Erimos IV Mission 07](vignettes/rp-07/README.md)
 * [Erimos IV Mission 08 Preparation with the Roc Heavy Cargo Shuttle and LSS Notus](vignettes/rp-08-pre/README.md)
 * [Erimos IV Mission 08](vignettes/rp-08/README.md)
-### Erimos System Phase II
+### Erimos System Phase III: Deep Space Mining
 * [Astreus Station Phase I, Erimos Asteroid Belt](vignettes/es-09/README.md)
 * [Astreus Station Phase IIa](vignettes/es-10a/README.md)
 * [Astreus Station Phase IIb](vignettes/es-10b/README.md)
